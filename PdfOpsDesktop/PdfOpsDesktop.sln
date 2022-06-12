@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfOpsDesktop", "PdfOpsDesktop\PdfOpsDesktop.csproj", "{7A2954CC-9034-4A3C-8398-C3C87432B76B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A2954CC-9034-4A3C-8398-C3C87432B76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2954CC-9034-4A3C-8398-C3C87432B76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2954CC-9034-4A3C-8398-C3C87432B76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2954CC-9034-4A3C-8398-C3C87432B76B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4E4480-FB2E-48CF-84F8-580CC14CBE86}
+	EndGlobalSection
+EndGlobal
